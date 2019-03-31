@@ -1,5 +1,7 @@
 # Jack::Store
 
+[![Build Status](https://travis-ci.org/tuliren/jack-store.svg?branch=master)](https://travis-ci.org/tuliren/jack-store) [![Gem Version](https://badge.fury.io/rb/jack-store.svg)](https://badge.fury.io/rb/jack-store)
+
 A simple key value store based on relational table.
 
 ## Installation
