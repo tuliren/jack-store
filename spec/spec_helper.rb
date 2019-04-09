@@ -1,5 +1,5 @@
 require "bundler/setup"
-require "jack/store"
+require "jack_store/jack_store"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
